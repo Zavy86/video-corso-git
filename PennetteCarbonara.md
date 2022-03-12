@@ -6,6 +6,6 @@ Le famose pennette alla carbonara.
 
 * penne
 * uova
-* pancetta
+* guanciale
 * pepe nero
 
